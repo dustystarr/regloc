@@ -1,0 +1,10 @@
+{
+    "registration_page_title": "Регистрация",
+    "name_label": "Имя",
+    "email_label": "Email",
+    "password_label": "Пароль",
+    "register_button_label": "Зарегистрироваться",
+    "confirm_password_label" : "Подтвердите пароль"
+
+  }
+  

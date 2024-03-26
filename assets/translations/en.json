@@ -1,0 +1,10 @@
+{
+    "registration_page_title": "Registration",
+    "name_label": "Name",
+    "email_label": "Email",
+    "password_label": "Password",
+    "register_button_label": "Register",
+    "confirm_password_label" : "Confirm Password"
+    
+  }
+  
